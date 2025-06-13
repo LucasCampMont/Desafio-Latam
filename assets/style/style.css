@@ -1,0 +1,66 @@
+#Hero-Section{
+  background-image: url("../img/foto-perfil.jpg");
+  background-repeat: no-repeat;
+  background-size:400px;
+  background-position: left 50px center;
+}
+
+.formato-texto{
+  font-family: "Raleway", sans-serif;
+}
+
+.texto-principal{
+  text-align: justify;
+}
+.bn-lucas{
+    background-color:darkslategray;
+}
+.portafolio-trabajos{
+  background-color:rgb(14, 75, 75);
+  border-radius: 10%;
+}
+
+.desafio1{
+  background-image: url("../img/Desafio-1.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.desafio2{
+  background-image: url("../img/Desafio-2.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.desafio3{
+  background-image: url("../img/Desafio-3.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.desafio4{
+  background-image: url("../img/Desafio-4.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.desafio5{
+  background-image: url("../img/Desafio-5.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
